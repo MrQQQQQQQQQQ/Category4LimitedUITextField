@@ -1,0 +1,3 @@
+# Category4LimitedUITextField
+一个UITextField类的category, 可以一行代码实现对UITextField字数的限制。
+使用方法详见demo
